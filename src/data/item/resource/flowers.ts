@@ -1,0 +1,23 @@
+import { Resource, ResourceType } from '../../../models/item/resource';
+
+export const RED_MUM = new Resource('Red Mum', ResourceType.FLOWER);
+export const WHITE_MUM = new Resource('White Mum', ResourceType.FLOWER);
+export const YELLOW_MUM = new Resource('Yellow Mum', ResourceType.FLOWER);
+export const RED_TULIP = new Resource('Red Tulip', ResourceType.FLOWER);
+export const WHITE_TULIP = new Resource('White Tulip', ResourceType.FLOWER);
+export const YELLOW_TULIP = new Resource('Yellow Tulip', ResourceType.FLOWER);
+export const RED_ROSE = new Resource('Red Rose', ResourceType.FLOWER);
+export const WHITE_ROSE = new Resource('White Rose', ResourceType.FLOWER);
+export const YELLOW_ROSE = new Resource('Yellow Rose', ResourceType.FLOWER);
+export const RED_HYACINTH = new Resource('Red Hyacinty', ResourceType.FLOWER);
+export const WHITE_HYACINTH = new Resource('White Hyacinty', ResourceType.FLOWER);
+export const YELLOW_HYACINTH = new Resource('Yellow Hyacinty', ResourceType.FLOWER);
+export const RED_PANSY = new Resource('Red Pansy', ResourceType.FLOWER);
+export const WHITE_PANSY = new Resource('White Pansy', ResourceType.FLOWER);
+export const YELLOW_PANSY = new Resource('Yellow Pansy', ResourceType.FLOWER);
+export const RED_WINDFLOWER = new Resource('Red Windflower', ResourceType.FLOWER);
+export const WHITE_WINDFLOWER = new Resource('White Windflower', ResourceType.FLOWER);
+export const YELLOW_WINDFLOWER = new Resource('Yellow Windflower', ResourceType.FLOWER);
+export const RED_COSMOS = new Resource('Red Cosmos', ResourceType.FLOWER);
+export const WHITE_COSMOS = new Resource('White Cosmos', ResourceType.FLOWER);
+export const YELLOW_COSMOS = new Resource('Yellow Cosmos', ResourceType.FLOWER);

@@ -23,10 +23,15 @@
     "files": [
         "dist/**/*"
     ],
-    "dependencies": {},
+    "dependencies": {
+        "uuid": "^7.0.3"
+    },
     "devDependencies": {
+        "@types/faker": "^4.1.11",
         "@types/jest": "^25.2.1",
         "@types/node": "^13.11.0",
+        "@types/uuid": "^7.0.2",
+        "faker": "^4.1.0",
         "jest": "^25.2.7",
         "prettier": "^2.0.2",
         "ts-jest": "^25.3.1",
